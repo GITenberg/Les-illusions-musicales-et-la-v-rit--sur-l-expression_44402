@@ -1,0 +1,28 @@
+_repo: Les-illusions-musicales-et-la-v-rit--sur-l-expression_44402
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44402-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Weber, Johannès
+    alias: Weber, Johannes
+    birthdate: 1818
+    deathdate: 1902
+    gutenberg_agent_id: '42733'
+    url: http://www.gutenberg.org/2009/agents/42733
+description: ''
+gutenberg_bookshelf: FR Musique
+gutenberg_issued: '2013-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44402'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Music -- Philosophy and aesthetics'
+title: Les illusions musicales et la vérité sur l'expression
+url: http://www.gutenberg.org/ebooks/44402
